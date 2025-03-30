@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+x64/
+*.ilk
+*.ipch
+*.pdb
+*.db
+*.obj
+*.log
+*.tlog
+*.suo
+*.user
+*.ipdb
+*.opendb
+*.iobj
